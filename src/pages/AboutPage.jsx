@@ -6,7 +6,7 @@ function AboutPage() {
       <div className='about'>
         <h1>Abouth This Project</h1>
         <p>This s a React app to leave feedback</p>
-        <p>Version : 1.0.0</p>
+        <p>Version : 2.0.0</p>
         <p>
           <Link to='/'>Back to Home</Link>
         </p>
