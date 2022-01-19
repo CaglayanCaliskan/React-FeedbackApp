@@ -8,7 +8,7 @@ function AboutPage() {
         <p>This s a React app to leave feedback</p>
         <p>Version : 2.0.0</p>
         <p>
-          <Link to='/React-FeedbackApp'>Back to Home</Link>
+          <Link to='/'>Back to Home</Link>
         </p>
       </div>
     </Card>
