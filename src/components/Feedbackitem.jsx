@@ -8,6 +8,7 @@ function Feedbackitem({ item }) {
   return (
     <Card reverse={true}>
       <div className='num-display'>{item.rating}</div>
+
       <button onClick={() => deleteFeedback(item.id)} className='close'>
         <FaTimes color='purple' />
       </button>
@@ -15,6 +16,7 @@ function Feedbackitem({ item }) {
         <FaEdit color='orange' />
       </button>
       <div className='text-display'>{item.text}</div>
+      <p style={{ opacity: '0.3' }}>{Date()}</p>
     </Card>
   );
 }
