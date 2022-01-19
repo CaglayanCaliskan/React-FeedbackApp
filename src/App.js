@@ -19,7 +19,7 @@ function App() {
         <div className='container'>
           <Routes>
             <Route
-              path='/'
+              path='/React-FeedbackApp'
               element={
                 <>
                   <FeedbackForm />
