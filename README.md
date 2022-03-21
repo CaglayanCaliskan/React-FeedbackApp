@@ -1,8 +1,26 @@
-![feedbackUI](https://user-images.githubusercontent.com/96074949/149532435-88bce593-7836-4543-91f4-5cb6f5a5bc58.jpg)
-# Getting Started with Create React App
+# Feedback App with ReactJs
 
-https://full-stack-feedbackapp.netlify.app/
 
+In this project. i used Json local server (concurrently) 
++ Add Feedback with rate.
++ Total Feedback count
++ Average Rating
++ Delete Feedback
+
+
+
+This is a learning project with @bradtraversy from https://www.udemy.com/course/react-front-to-back-2022/
+
+
+## Used Technologies 
++ ReactJs
++ CSS
++ NodeJs
+
+## Used Tools
++ Framer-motion
++ json-server
++ uuid
 
 
 ## Available Scripts
@@ -20,8 +38,14 @@ Runs the app server i\
 Open [http://localhost:5000](http://localhost:5000) 
 
 
+## Live Demo 
+*[Live Demo on Netlify](https://full-stack-feedbackapp.netlify.app/)*
 
-## Learn More
-In this project. i used Json local server (concurrently)
 
-#
+![feedbackUI](https://user-images.githubusercontent.com/96074949/149532435-88bce593-7836-4543-91f4-5cb6f5a5bc58.jpg)
+
+
+
+
+
+
