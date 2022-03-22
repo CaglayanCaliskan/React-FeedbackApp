@@ -1,16 +1,10 @@
 # Feedback App with ReactJs
 
-
 In this project. i used Json local server (concurrently) 
 + Add Feedback with rate.
 + Total Feedback count
 + Average Rating
 + Delete Feedback
-
-
-
-This is a learning project with @bradtraversy from https://www.udemy.com/course/react-front-to-back-2022/
-
 
 ## Used Technologies 
 + ReactJs
@@ -21,6 +15,18 @@ This is a learning project with @bradtraversy from https://www.udemy.com/course/
 + Framer-motion
 + json-server
 + uuid
+
+## This project goes over all of the fundamentals of React including...
+   + Components
+   + JSX
+   + Props (proptypes, defaultprops, etc)
+   + State (Component & App Level)
+   + Styling
+   + Handling Events
+   + Lists & Keys
+   + Forms
+   + Context API
+   + HTTP Requests
 
 
 ## Available Scripts
@@ -43,6 +49,8 @@ Open [http://localhost:5000](http://localhost:5000)
 
 
 ![feedbackUI](https://user-images.githubusercontent.com/96074949/149532435-88bce593-7836-4543-91f4-5cb6f5a5bc58.jpg)
+
+This is a learning project with @bradtraversy from https://www.udemy.com/course/react-front-to-back-2022/
 
 
 
